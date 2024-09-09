@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![lydAndtry's GitHub stats](https://github-readme-stats.vercel.app/api?username=lydAndtry)](https://github.com/lydAndtry)
+
 <!--
 **lydAndtry/lydAndtry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
